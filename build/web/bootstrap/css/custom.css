@@ -1,0 +1,60 @@
+body {
+    background:url("../images/hero_image.jpg");
+    background-repeat: no-repeat;
+}
+
+input.button-buscar { 
+background:url("../images/1426291657_free-01-32.png");
+background-position:  0px 0px;
+background-repeat: no-repeat;
+width: 32px;
+height: 32px;
+border: 0px;
+border-color: transparent;
+background-color: transparent;
+cursor: pointer;
+outline: 0;
+padding-bottom: 10px;
+}
+
+input.button-editar { 
+background:url("../images/1426291631_free-07-32.png");
+background-position:  0px 0px;
+background-repeat: no-repeat;
+width: 32px;
+height: 32px;
+border: 0px;
+border-color: transparent;
+background-color: transparent;
+cursor: pointer;
+outline: 0;
+padding-bottom: 10px;
+}
+
+input.button-eliminar { 
+background:url("../images/1426291618_free-09-32.png");
+background-position:  0px 0px;
+background-repeat: no-repeat;
+width: 32px;
+height: 32px;
+border: 0px;
+border-color: transparent;
+background-color: transparent;
+cursor: pointer;
+outline: 0;
+padding-bottom: 10px;
+}
+
+input.button-agregar { 
+background:url("../images/1426291645_free-05-32.png");
+background-position:  0px 0px;
+background-repeat: no-repeat;
+width: 32px;
+height: 32px;
+border: 0px;
+border-color: transparent;
+background-color: transparent;
+cursor: pointer;
+outline: 0;
+padding-bottom: 10px;
+}
